@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Wsy\SharePage;
+namespace FoF\ShareSocial;
 
 use Flarum\Api\Serializer\DiscussionSerializer;
 use Flarum\Discussion\Discussion;
