@@ -1,5 +1,5 @@
 {
-    "name": "wsy/flarum-share-page",
+    "name": "wangshangyou/flarum-share-page",
     "description": "分享页面",
     "type": "flarum-extension",
     "require": {
